@@ -1,0 +1,30 @@
+<main id="main">
+<h2 id="title">Engr. David Nwaze Umahi</h2>
+<p>The incumbent Governor of Ebonyi State.</p>
+<p>The Governor who brought infrastructural development to his state and He is popularily called Ekubara uha by his people.</p>
+<div id="img-div">
+  <img id="image" src="https://i0.wp.com/thedrumonline.net/wp-content/uploads/2020/11/David-Umahi.jpg?resize=640%2C360&ssl=1" alt="picture of David Umahi">
+  <figcaption id="img-caption">Beautiful picture of Governor David Umahi in his native attire.</figcaption> 
+</div>
+  <section id="tribute-info">
+    <h3 id="headlines">Here is the life of Gov. David Nwaze Umahi to present.</h3>
+  <ul>
+      <li><strong>1964</strong>- Born in Ohaozara Local Government Area in Ebonyi State Nigeria. </li>
+      <li><strong>1977</strong>- He recieved primary Education from Umunaga Primary School Uburu.</li>
+      <li><strong>1982</strong>- He recieved his secondary Education from Government Secondary School Afikpo.</li>
+     <li><strong>1987</strong>- He graduated with a Bachelor of Science Degree in Civil Engineering from Enugu State University of Science and Technology.</li>
+     <li><strong>1988</strong>- He served as a supervisor of Umuahia Water Project and the Ndiegoro Aba Flood Control measures.</li>
+     <li><strong>1990</strong>- He co-founded Norman Engineering and Construction Nig. Limited with Ombo Isokarai.</li>
+     <li>- He was also the chairman and CEO of Brass Engineering & Construction Nig. Ltd</li>
+     <li><strong>2007</strong>- He joined politics ans was the acting chairman of the Ebonyi State chapter of the People's Democratic Party (PDP).</li>
+     <li><strong>2009</strong>- He served as the chairman of the above party</li>
+     <li><strong>2011</strong>- Engr Dave as popularly called by his people became the depute governor of Ebonyi State with Elechi Martin as the Governor.</li>
+    <li><strong>2015</strong>- Engr Dave led the hem of leadership as the elected governor on the 12th of April 2015 succeeding the then governor Martin Elechi.</li>
+   <li><strong>2019</strong>- Governor Umahi was re-elected for a second tenure in office on the 16th day of March 2019.</li>
+    <li><strong>2020</strong>He defected to the opposition party, th All Progressive Congrass(APC) which had many beleived that his intention of joining the opposition party was for a hope of being offered a presidential ticket come 2023 elections.</li>
+    <li>- Governor David Umahi is percieved by many as the man who brougt infrastructural development to his state, this is owing to the many newly constructed roads, hospitals and school buildings among many other.</li>
+    </ul>
+    <h3> Read more about Engr. David Umahi <a id="tribute-link" href="https://en.wikipedia.org/wiki/Dave_Umahi" target="_blank">wikipedia</a>
+    </h3>
+</section>
+    </main>
